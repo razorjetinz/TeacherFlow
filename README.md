@@ -50,7 +50,7 @@ This is a static website. In the repository, open **Settings → Pages**, select
 
 ## AI skill
 
-See [skill/SKILL.md](skill/SKILL.md) and [skill/QUICK-START-PROMPT.md](skill/QUICK-START-PROMPT.md). The skill package defines the common teaching method and outputs; provider-specific instructions explain the available handoff options.
+Download the [portable skill ZIP](skill/teacherflow-ai-skill.zip), or inspect [SKILL.md](skill/SKILL.md) and the [quick-start prompt](skill/QUICK-START-PROMPT.md). Provider-specific setup notes are included in the same folder.
 
 ## Licence
 
